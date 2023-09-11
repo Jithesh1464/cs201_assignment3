@@ -1,5 +1,5 @@
 /*
-   sai umesh-------->2212060
+   jithesh - 2212027
 */
 #include<stdio.h>
 void tosparse(int n,int a[n][n]){
